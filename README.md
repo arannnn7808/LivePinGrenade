@@ -1,9 +1,9 @@
 # LivePinGrenade
 
 [![LabAPI](https://img.shields.io/badge/LabAPI-1.1.7+-blue)](https://github.com/northwood-studios/LabAPI)
-[![GitHub all releases](https://img.shields.io/github/downloads/arannnn7808/LivePinGrenade/total)](https://github.com/arannnn7808/LivePinGrenade/releases)
-[![GitHub forks](https://img.shields.io/github/forks/arannnn7808/LivePinGrenade)](https://github.com/arannnn7808/LivePinGrenade/network/members)
-[![GitHub](https://img.shields.io/github/license/arannnn7808/LivePinGrenade)](https://github.com/arannnn7808/LivePinGrenade/blob/master/LICENSE)
+[![GitHub all releases](https://img.shields.io/github/downloads/arannnn7808/LivePinGrenade-LabApi/total)](https://github.com/arannnn7808/LivePinGrenade-LabApi/releases)
+[![GitHub forks](https://img.shields.io/github/forks/arannnn7808/LivePinGrenade-LabApi)](https://github.com/arannnn7808/LivePinGrenade-LabApi/network/members)
+[![GitHub](https://img.shields.io/github/license/arannnn7808/LivePinGrenade-LabApi)](https://github.com/arannnn7808/LivePinGrenade-LabApi/blob/master/LICENSE)
 
 Starts the HE grenade fuse the moment the pin is pulled instead of when the projectile leaves your hand. Hold it too long and it cooks off in your hand; throw it and it flies with only the time that is left.
 
@@ -23,7 +23,7 @@ Starts the HE grenade fuse the moment the pin is pulled instead of when the proj
 ## Installation
 
 1.  Make sure you have **LabAPI v1.1.7** or a compatible version installed on your server.
-2.  Download the latest release of `LivePinGrenade.dll` from the [**Releases Page**](https://github.com/arannnn7808/LivePinGrenade/releases).
+2.  Download the latest release of `LivePinGrenade.dll` from the [**Releases Page**](https://github.com/arannnn7808/LivePinGrenade-LabApi/releases/latest).
 3.  Place the downloaded `.dll` file into your server's plugin directory (`.config/SCP Secret Laboratory/LabApi/plugins/(server-port/global)`).
 4.  Download dependencies zip, extract it and place the content into (`.config/SCP Secret Laboratory/LabApi/dependencies/(server-port/global)`).
 5.  Restart the server. The configuration file will be generated on the first run.
@@ -38,4 +38,4 @@ After the first launch, `config.yml` will be created in your LabApi configuratio
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/arannnn7808/LivePinGrenade/blob/master/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/arannnn7808/LivePinGrenade-LabApi/blob/master/LICENSE) file for details.
