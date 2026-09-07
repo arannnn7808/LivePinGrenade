@@ -36,6 +36,9 @@ After the first launch, `config.yml` will be created in your LabApi configuratio
 |-----------------|---------|-------------------------------------------------------------------------------------------------------- |
 | `fuse_duration` | `0`     | Fuse length in seconds, measured from the moment the pin is pulled. `0` keeps the game's default HE fuse. |
 
+## Showcase
+https://github.com/user-attachments/assets/1174416f-9cfa-4edc-b2ab-39ccf3efb7f7
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/arannnn7808/LivePinGrenade-LabApi/blob/master/LICENSE) file for details.
